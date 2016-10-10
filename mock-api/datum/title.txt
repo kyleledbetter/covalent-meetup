@@ -1,0 +1,8 @@
+Rapidly Build Enterprise Apps in Angular 2 with Covalent
+Aurelia: Next-Generation Web Apps
+Controller as syntax
+Free Webinar, Angular2: Beginner to Advanced in One Hour
+Webinar: TypeScript: Beginner to Advanced (In One hour) with Chander Dhall
+Typescript Basics: A basic intro into typescript with nodejs
+Webinar: Comparing Javascript Frameworks (Angular, Angular 2, React, Ember etc)
+Understanding Components in Angular 1.5

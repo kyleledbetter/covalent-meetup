@@ -1,0 +1,7 @@
+Rockstar Developers and AnuglarJS MeetUp are partnering for our next MeetUp-- We hope to see you there! Event Description: Covalent, the open source UI Library from
+Description Do you want to see what the future of web development will be like? Are you looking for a simple framework or set of libraries that can help you build
+I've seen a lot of examples and posts online about using 'Controller as' syntax as a way to keep your $scope clean. I think its going to take someone showing it to me in
+Register using this link: http://www.chanderdhall.com/workshops/angular2-beginner-to-advanced-in-one-hour With the recent endorsements of Google Angular team and
+Please note: you MUST register here in order to receive the online link for the event: http://www.chanderdhall.com/workshops/typescript-beginner-to-advanced-in-one-hour
+Typescript is the preferred language for writing angular 2 applications. It's incredibly powerful. I think typescript is the future of javascript and I want to promote
+oin Chander Dhall broadcasting live for the first time ever! The format will be a free one-hour live webcast with Powerpoint presentation, Q&A to follow if time permits
