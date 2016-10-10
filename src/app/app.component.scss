@@ -2,18 +2,18 @@
 // Angular-Material has an upstream Angular blocker for SCSS variables to work https://github.com/angular/angular/issues/2567
 
 /* Variables */
-$md-primary: #0097A7;
-$md-primary-opacity: rgba(0, 151, 167, 0.12);
-$md-accent: #FF9100;
-$md-accent-opacity: rgba(255, 145, 0, 0.12);
-$md-warn: #E53935;
+$md-primary: #E53935;
+$md-primary-opacity: rgba($md-primary, 0.14);
+$md-accent: #00BFA5;
+$md-accent-opacity: rgba($md-accent, 0.14);
+$md-warn: #EF6C00;
 
 /* :host /deep/ lets shadowdom style child elements */
 :host /deep/ {
          /* customize logo height and width */
     .md-icon-logo {
-        height: 50px;
-        width: 45px;
+        height: 40px;
+        width: 100px;
         margin-right: 5px;
     }
 
