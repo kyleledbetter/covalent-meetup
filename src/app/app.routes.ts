@@ -20,7 +20,7 @@ const routes: Routes = [
     {path: 'item/:id', component: DetailComponent},
     {path: 'logs', component: LogsComponent},
     {path: 'form', component: FormComponent},
-    {path: 'users', children: [
+    {path: 'members', children: [
       {path: '', component: UsersComponent},
       {path: 'add', component: UsersFormComponent},
       {path: ':id/delete', component: UsersFormComponent},
